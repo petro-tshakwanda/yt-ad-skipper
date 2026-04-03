@@ -7,7 +7,7 @@ An experimental machine-learning project for identifying likely ad-like segments
 
 ## Why this project exists
 
-Users increasingly expect control over interruptions while watching online video. Research on online video advertising shows that ad avoidance is a real and measurable behavior, often driven by perceived intrusiveness, irritation, and disruption of the viewing goal [web:396][web:403][web:399]. This project explores whether machine-learning models can identify ad-like segments from video features in a controlled experimental setting, so the behavior can be studied, benchmarked, and evaluated responsibly [web:402][web:395].
+Users increasingly expect control over interruptions while watching online video. Research on online video advertising shows that ad avoidance is a real and measurable behavior, often driven by perceived intrusiveness, irritation, and disruption of the viewing goal. This project explores whether machine-learning models can identify ad-like segments from video features in a controlled experimental setting, so the behavior can be studied, benchmarked, and evaluated responsibly.
 
 ## Project goals
 
