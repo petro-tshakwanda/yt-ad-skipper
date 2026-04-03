@@ -1,0 +1,22 @@
+  y, sr_native = __audioread_load(path, offset, duration, dtype)
+/home/petro/yt-ad-skipper/src/extract_features.py:76: UserWarning: PySoundFile failed. Trying audioread instead.
+  y, sr = librosa.load(str(video_path), sr=AUDIO_SR, offset=start, duration=end-start)
+/home/petro/yt-ad-skipper/.venv/lib/python3.12/site-packages/librosa/core/audio.py:184: FutureWarning: librosa.core.audio.__audioread_load
+	Deprecated as of librosa version 0.10.0.
+	It will be removed in librosa version 1.0.
+  y, sr_native = __audioread_load(path, offset, duration, dtype)
+/home/petro/yt-ad-skipper/src/extract_features.py:76: UserWarning: PySoundFile failed. Trying audioread instead.
+  y, sr = librosa.load(str(video_path), sr=AUDIO_SR, offset=start, duration=end-start)
+/home/petro/yt-ad-skipper/.venv/lib/python3.12/site-packages/librosa/core/audio.py:184: FutureWarning: librosa.core.audio.__audioread_load
+	Deprecated as of librosa version 0.10.0.
+	It will be removed in librosa version 1.0.
+  y, sr_native = __audioread_load(path, offset, duration, dtype)
+/home/petro/yt-ad-skipper/src/extract_features.py:76: UserWarning: PySoundFile failed. Trying audioread instead.
+  y, sr = librosa.load(str(video_path), sr=AUDIO_SR, offset=start, duration=end-start)
+/home/petro/yt-ad-skipper/.venv/lib/python3.12/site-packages/librosa/core/audio.py:184: FutureWarning: librosa.core.audio.__audioread_load
+	Deprecated as of librosa version 0.10.0.
+	It will be removed in librosa version 1.0.
+  y, sr_native = __audioread_load(path, offset, duration, dtype)
+[INFO] Saved data_features/ouAccsTzlGU_segments.npz (521 segments)
+Processing videos: 100%|███████████████████████████████████████████████████████████████████████████████████| 200/200 [66:09:49<00:00, 661Processing videos: 100%|██████████████████████████████████████████████████████████████████████████████████| 200/200 [66:09:49<00:00, 1190.95s/it]
+

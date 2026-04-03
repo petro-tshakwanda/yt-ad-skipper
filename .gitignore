@@ -1,0 +1,26 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+logs/
+.ipynb_checkpoints/
+dist/
+build/
+*.egg-info/
+*.h5
+*.keras
+*.ckpt
+*.npz
+*.mp4
+.DS_Store
+
+# big local artifacts
+google-chrome-stable_current_amd64.deb
+processed/labels_sponsor_segments.csv
+
+# local artifacts
+.google-chrome-stable_current_amd64.deb
+google-chrome-stable_current_amd64.deb
+processed/labels_sponsor_segments.csv
+.venv/

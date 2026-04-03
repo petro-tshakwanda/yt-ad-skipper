@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+tensorflow
+opencv-python
+requests
+flask
+pytest
+tqdm
